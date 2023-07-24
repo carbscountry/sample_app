@@ -1,6 +1,6 @@
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
-[実際のアプリケーション](https://rails-tutorial-gjkj.onrender.com)
+
 
 これは、次の教材で作られたサンプルアプリケーションです。
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
